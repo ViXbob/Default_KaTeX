@@ -27,6 +27,7 @@
     flex-basis: 110%;
     flex-direction: row;
     justify-content: center;
+    overflow: hidden;
   }
 
   .item-1 {
